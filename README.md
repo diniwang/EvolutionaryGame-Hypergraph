@@ -39,8 +39,6 @@ This subfolder is used to generate some typical hypergraphs based on the configu
 ## RowData
 
 This subfolder contains nine datasets concerning with higher-order interatcions:
-* Coauthorship from DBLP
-* Coauthorship from Geology field in MAG
 * Congress bills
 * Human contact in a high school
 * Human contact in a primary school
