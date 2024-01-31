@@ -42,7 +42,6 @@ while(True):
         ERow.append([])
 
         while(len(total_node) < gList[i]):
-            print(1)
             total_node.append(random.choice(VRow))
 
         for j in range(gList[i]):
